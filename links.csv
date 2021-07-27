@@ -1,5 +1,6 @@
-id,name,link
-1,按鈕1,#
-2,按鈕2,#
-3,按鈕3,#
-4,按鈕4,#
+id,name,link,icon
+header-vid,,,
+side-1,收取投資新知,#,line
+side-2,觀看影片,#,youtube
+socialmedia-1,LINE,#,line
+socialmedia-2,Facebook,#,facebook
